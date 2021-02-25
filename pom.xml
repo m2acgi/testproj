@@ -9,8 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>webdemo</module>
-        <module>webdemo</module>
-        <module>webdemo</module>
     </modules>
     <packaging>pom</packaging>
 
